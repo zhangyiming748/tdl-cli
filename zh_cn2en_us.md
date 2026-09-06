@@ -9,6 +9,7 @@
 |Ashley Graham|碍事梨;阿什利|
 |Claire Redfield|克莱尔|
 |Grace Ashcroft|格蕾丝;格雷斯;格蕾斯|
+|Excella Gionne|艾克塞拉·吉奥内;艾克塞拉;一颗塞拉|
 
 # 死或生
 
